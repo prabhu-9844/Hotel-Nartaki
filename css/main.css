@@ -76,7 +76,7 @@ section::before,section::after {
     02. Header 
 ========================================================================== */
 #header {
-    background-image:url(../img/night.jpg);
+    background-image:url(../img/HD1.jpg);
     -webkit-background-size:/*@@prefixmycss->No equivalent*/;
     -moz-background-size:cover;
     -o-background-size:/*@@prefixmycss->No equivalent*/;
@@ -416,8 +416,8 @@ section::before,section::after {
     10. Footer 
 ========================================================================== */
 .dark-wrapper {
-    background:#ed0121;
-    color:white;
+    background:yellowgreen;
+    color:red;
     font-size:20px;
     font-weight:bold;
 }
